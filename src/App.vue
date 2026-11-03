@@ -118,36 +118,4 @@ body {
   transition: opacity 0.2s, transform 0.1s;
 }
 
-.btn:hover {
-  opacity: 0.92;
-}
 
-.btn:active {
-  transform: scale(0.98);
-}
-
-.btn-primary {
-  background: #2563eb;
-  color: white;
-}
-
-.btn-success {
-  background: #16a34a;
-  color: white;
-}
-
-.btn-warning {
-  background: #d97706;
-  color: white;
-}
-
-.btn-danger {
-  background: #dc2626;
-  color: white;
-}
-
-.btn-secondary {
-  background: #e2e8f0;
-  color: #1e293b;
-}
-</style>
